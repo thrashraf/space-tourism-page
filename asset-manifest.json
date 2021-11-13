@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/space-tourism-page/static/css/main.6013ba84.chunk.css",
+    "main.css": "/space-tourism-page/static/css/main.05a6b083.chunk.css",
     "main.js": "/space-tourism-page/static/js/main.7a89d5e3.chunk.js",
     "main.js.map": "/space-tourism-page/static/js/main.7a89d5e3.chunk.js.map",
     "runtime-main.js": "/space-tourism-page/static/js/runtime-main.c4fa5b81.js",
@@ -10,17 +10,17 @@
     "static/js/3.304e336e.chunk.js": "/space-tourism-page/static/js/3.304e336e.chunk.js",
     "static/js/3.304e336e.chunk.js.map": "/space-tourism-page/static/js/3.304e336e.chunk.js.map",
     "index.html": "/space-tourism-page/index.html",
-    "static/css/main.6013ba84.chunk.css.map": "/space-tourism-page/static/css/main.6013ba84.chunk.css.map",
+    "static/css/main.05a6b083.chunk.css.map": "/space-tourism-page/static/css/main.05a6b083.chunk.css.map",
     "static/js/2.6f2c9d51.chunk.js.LICENSE.txt": "/space-tourism-page/static/js/2.6f2c9d51.chunk.js.LICENSE.txt",
     "static/media/crew.module.css": "/space-tourism-page/static/media/background-crew-tablet.16d51cf6.jpg",
-    "static/media/technology.module.css": "/space-tourism-page/static/media/background-destination-tablet.8f55d346.jpg",
-    "static/media/Destination.module.css": "/space-tourism-page/static/media/background-destination-mobile.e0131e27.jpg",
-    "static/media/container.module.css": "/space-tourism-page/static/media/background-home-tablet.bc9efcc3.jpg"
+    "static/media/Destination.module.css": "/space-tourism-page/static/media/background-destination-tablet.8f55d346.jpg",
+    "static/media/container.module.css": "/space-tourism-page/static/media/background-home-tablet.bc9efcc3.jpg",
+    "static/media/technology.module.css": "/space-tourism-page/static/media/background-technology-tablet.48c38b02.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c4fa5b81.js",
     "static/js/2.6f2c9d51.chunk.js",
-    "static/css/main.6013ba84.chunk.css",
+    "static/css/main.05a6b083.chunk.css",
     "static/js/main.7a89d5e3.chunk.js"
   ]
 }
